@@ -2,6 +2,12 @@
     <M>
 ****************************************************************************/
 [
+    // Windows - title bar
+    {
+        "class": "title_bar",
+        "fg": [180, 180, 180],
+        "bg": [23, 23, 23]
+    },
     // Labels
     {
         "class": "label_control",
@@ -522,7 +528,7 @@
 
         "layer1.texture": "Theme - Minimist/Minimist/tabset_background_transparent.png",
         "layer1.inner_margin": [2, 6],
-        "layer1.opacity": 1.0,
+        "layer1.opacity": 0.75,
 
         "content_margin": [3, 0, 3, 1],
         "tab_overlap": 17,
