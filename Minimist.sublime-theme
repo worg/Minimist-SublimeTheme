@@ -413,7 +413,12 @@
         "settings": ["bold_folder_labels"],
         "font.bold": true
     },
-    //
+    {
+        "class": "panel_button_control",
+        "layer0.texture": "Theme - Minimist/Minimist/icons/panels_button.png",
+        "layer0.opacity": { "target": 0.4, "speed": 4.0, "interpolation": "smoothstep" },
+        "content_margin": [10, 10]
+    },
     {
         "class": "minimap_control",
         "viewport_color": [68, 68, 68, 96]
@@ -879,6 +884,7 @@
     },
     {
         "class": "icon_folder",
-        "content_margin": [0,0]
+        "content_margin": [0,0],
+        "layer0.opacity": { "target": 0.4, "speed": 4.0, "interpolation": "smoothstep" }
     },
 ]
