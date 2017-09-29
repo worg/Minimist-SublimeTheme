@@ -9,7 +9,7 @@ It's like Sublime default theme without gradients and with dark sidebar.
 
 <center>
 
-![screenshot](https://gist.githubusercontent.com/worg/da47b3867cbf43befa3876036407c4b4/raw/040923ece57d3281b88b07260ca2f4c19951aadd/image1.png)
+![screenshot](https://gist.githubusercontent.com/worg/da47b3867cbf43befa3876036407c4b4/raw/6c86d09a246b1856488ce195504f30b7274207c4/image1.png)
 
 </center>
 
