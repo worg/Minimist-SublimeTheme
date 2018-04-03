@@ -40,7 +40,7 @@
         <key>bracketContentsForeground</key>
         <string>#CD4E55</string>
         <key>bracketContentsOptions</key>
-        <string>foreground underline</string>
+        <string>underline foreground</string>
         <key>tagsOptions</key>
         <string>underline</string>
       </dict>
@@ -168,6 +168,21 @@
       <string>variable.language</string>
       <key>settings</key>
       <dict>
+        <key>background</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#917CCD</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>This</string>
+      <key>scope</key>
+      <string>variable.language.this</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
         <key>background</key>
         <string></string>
         <key>foreground</key>
@@ -329,7 +344,7 @@
         <key>background</key>
         <string></string>
         <key>foreground</key>
-        <string>#DE935F</string>
+        <string>#3574B4</string>
       </dict>
     </dict>
     <dict>
@@ -344,7 +359,7 @@
         <key>background</key>
         <string></string>
         <key>foreground</key>
-        <string>#CC8857</string>
+        <string>#1674A0</string>
       </dict>
     </dict>
     <dict>
@@ -383,7 +398,7 @@
         <key>background</key>
         <string></string>
         <key>foreground</key>
-        <string>#d19494</string>
+        <string>#D19494</string>
       </dict>
     </dict>
     <dict>
